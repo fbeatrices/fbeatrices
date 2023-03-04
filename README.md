@@ -11,11 +11,11 @@ My name is Felicia Beatrice Senjaya, I'm 22 years old this year and I'm a senior
 ### Hobbies and Interests
  - Baking
  <p align="left">
-<img src="E1F7C287-F0A2-4F7B-8251-DB539347B328.JPG" width="200" align="center"> <img src="IMG-1810.jpg" width="250" height="350"> 
+<img src="E1F7C287-F0A2-4F7B-8251-DB539347B328.JPG" width="200" align=""> <img src="IMG-1810.jpg" width="250" height="350"> 
 
  - Food Blogger wannabe
  <p align="left">
-<img src="IMG-0727.jpg" width="200" align="right"> <img src="3DCF3771-3F92-483E-9DA4-5D7C02DD2045.jpg" width="200">
+<img src="IMG-0727.jpg" width="200" align=""> <img src="3DCF3771-3F92-483E-9DA4-5D7C02DD2045.jpg" width="200">
 
  - Travelling
 <p align="Left">
