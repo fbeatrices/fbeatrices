@@ -1,7 +1,7 @@
 ### Felicia Beatrice Senjaya
 大家好！
 
-<p align="center">
+<p align="left">
 <img src="photo.jpg" width="200">
 </p>
 
